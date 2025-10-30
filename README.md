@@ -1,10 +1,10 @@
-# 🚀 Asseto Fiance BOT
+# 🚀 Asseto Finance BOT
 
 > Automated web3 interaction for efficient crypto farming and multi-account management
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/vonssy/AssetoFiance-BOT.svg)](https://github.com/vonssy/AssetoFiance-BOT/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/vonssy/AssetoFinance-BOT.svg)](https://github.com/vonssy/AssetoFinance-BOT/stargazers)
 
 ## 📋 Table of Contents
 
@@ -20,9 +20,9 @@
 
 ## 🎯 Overview
 
-Asseto Fiance BOT is an automated tool designed to streamline process multiple accounts. It provides seamless integration with Pharos Atlantic Network and offers robust proxy support for enhanced security and reliability.
+Asseto Finance BOT is an automated tool designed to streamline process multiple accounts. It provides seamless integration with Pharos Atlantic Network and offers robust proxy support for enhanced security and reliability.
 
-**🔗 Get Started:** [Register on AssetoFiance](https://app.AssetoFiance.world/)
+**🔗 Get Started:** [Register on AssetoFinance](https://app.AssetoFinance.world/)
 
 > **Important:** Connect the new evm wallet for optimal performance.
 
@@ -47,8 +47,8 @@ Asseto Fiance BOT is an automated tool designed to streamline process multiple a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vonssy/AssetoFiance-BOT.git
-cd AssetoFiance-BOT
+git clone https://github.com/vonssy/AssetoFinance-BOT.git
+cd AssetoFinance-BOT
 ```
 
 ### 2. Install Dependencies
@@ -176,8 +176,8 @@ We welcome contributions from the community! Here's how you can help:
 ## 📞 Contact & Support
 
 - **Developer:** vonssy
-- **Issues:** [GitHub Issues](https://github.com/vonssy/AssetoFiance-BOT/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/vonssy/AssetoFiance-BOT/discussions)
+- **Issues:** [GitHub Issues](https://github.com/vonssy/AssetoFinance-BOT/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/vonssy/AssetoFinance-BOT/discussions)
 
 ---
 
@@ -185,6 +185,6 @@ We welcome contributions from the community! Here's how you can help:
 
 **Made with ❤️ by [vonssy](https://github.com/vonssy)**
 
-*Thank you for using Asseto Fiance BOT! Don't forget to ⭐ star this repository.*
+*Thank you for using Asseto Finance BOT! Don't forget to ⭐ star this repository.*
 
 </div>
