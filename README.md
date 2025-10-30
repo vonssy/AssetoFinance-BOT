@@ -22,7 +22,7 @@
 
 Asseto Finance BOT is an automated tool designed to streamline process multiple accounts. It provides seamless integration with Pharos Atlantic Network and offers robust proxy support for enhanced security and reliability.
 
-**🔗 Get Started:** [Register on AssetoFinance](https://app.AssetoFinance.world/)
+**🔗 Get Started:** [Register on Asseto Finance](https://testnet.asseto.finance/pharos#invest)
 
 > **Important:** Connect the new evm wallet for optimal performance.
 
